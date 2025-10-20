@@ -49,3 +49,5 @@ image_str = result.json()["images"][0]["image"]
 
 img = decode_image(image_str)
 img.save("result.png")
+
+# just to check git merge
